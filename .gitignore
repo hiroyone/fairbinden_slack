@@ -1,0 +1,14 @@
+#Jupyter Notebook
+*.ipynb
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Export variables
+config.sh
+
+# Log File
+lunch_fairbinden.log
+
+# pycache
+__pycache__
